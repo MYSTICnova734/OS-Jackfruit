@@ -96,7 +96,7 @@ sudo ./engine stop beta
 
 ## 📸 Demo with Screenshots
 1. Multi-container supervision
-   <img width="1536" height="1024" alt="os1" src="https://github.com/user-attachments/assets/c982e2e2-7cff-4d91-9647-714eb1a931ff" /> 
+   <img width="1536" height="1024" alt="os1" src="https://github.com/user-attachments/assets/08a8197f-26de-4824-b03c-1ca5343e8e71" />
    Two containers running concurrently under a single supervisor process
 
 2. Metadata tracking (ps)
